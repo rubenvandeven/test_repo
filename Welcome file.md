@@ -5,7 +5,6 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 # Files
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
 
@@ -143,7 +142,7 @@ C --> D
 ```
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIyOUhuWkgycGtKb0ZTUUYxIjp7In
-N0YXJ0Ijo3NTgsImVuZCI6ODk3LCJ0ZXh0IjoiQWxsIHlvdXIg
+N0YXJ0Ijo2MjIsImVuZCI6NzYxLCJ0ZXh0IjoiQWxsIHlvdXIg
 ZmlsZXMgYW5kIGZvbGRlcnMgYXJlIHByZXNlbnRlZCBhcyBhIH
 RyZWUgaW4gdGhlIGZpbGUgZXhwbG9yZXIuIFlvdSBjYeKApiJ9
 LCJ4Rm1TNEZjR2l5bkp6WEg2Ijp7InN0YXJ0IjoyNSwiZW5kIj
@@ -159,6 +158,6 @@ I6IldoZXJlIGlzIG15IGNvbW1lbnQ/IiwiY3JlYXRlZCI6MTYx
 OTE2NTE5NDQwMH0sInN1MVRkSGl3VnY2THJFVGEiOnsiZGlzY3
 Vzc2lvbklkIjoieEZtUzRGY0dpeW5KelhINiIsInN1YiI6Imdo
 OjY3NzI5NiIsInRleHQiOiJEbyB5b3Uga25vdz8iLCJjcmVhdG
-VkIjoxNjE5MTY1MjAwNDAwfX0sImhpc3RvcnkiOlsxODIxMTMw
-NjIxXX0=
+VkIjoxNjE5MTY1MjAwNDAwfX0sImhpc3RvcnkiOlstMjAwMzEx
+OTY1NF19
 -->
